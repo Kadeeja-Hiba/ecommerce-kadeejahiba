@@ -1,0 +1,13 @@
+.userLogin {
+  width: 500px;
+  height: 450px;
+  border: 1px solid #daefe1;
+  margin: 50px auto;
+  padding: 30px 40px;
+  box-shadow: 5px 5px 30px 5px #d8e7dd;
+  border-radius: 5px;
+}
+.heading {
+  text-align: center;
+  padding: 20px;
+}

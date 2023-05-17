@@ -1,0 +1,27 @@
+.product {
+  width: 300px;
+  height: 400px;
+  border: 1px solid rgb(244, 241, 241);
+  margin: 10px;
+  border-radius: 5px;
+}
+.productImage {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  object-fit: cover;
+}
+.productDetails {
+  width: 90%;
+  margin: 10px auto;
+  padding: 0px 5px;
+  color: rgb(108, 105, 105);
+}
+.productInfo {
+  margin-top: 10px;
+}
+.price {
+  color: rgb(108, 105, 105);
+}
+.price span {
+  color: black;
+}
